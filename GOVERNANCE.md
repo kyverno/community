@@ -1,9 +1,10 @@
 # Kyverno Governance
 
-This document defines governance policies for the Kyverno project.
+This document defines governance policies for the [Kyverno and its sub-projects](https://github.com/kyverno#projects):
 
 - [Principles](#principles)
 - [Code of Conduct](#code-of-conduct)
+- [Vendor Neutrality](#vendor-neutrality)
 - [Meetings](#meetings)
 - [Roles and Process in the Kyverno Community](#roles)
 - [Conflict Resolutions](#conflict-resolutions)
@@ -12,26 +13,31 @@ This document defines governance policies for the Kyverno project.
 
 ## Principles
 
-The Kyverno project community adheres to the following principles:
+The Kyverno community adheres to the following principles:
 
-- Open: The Kyverno community strives to be open, accessible and welcoming to everyone. Anyone may contribute, and contributions are available to all users according to open-source values and licenses.
-- Transparent and accessible: Any changes to the Kyverno source code and collaborations on the project are publicly accessible (GitHub issues, PRs, and discussions).
-- Merit: Ideas and contributions are accepted according to their technical merit and alignment with project objectives, scope, and design principles.
-
+- **Open**: The Kyverno community strives to be open, accessible and welcoming to everyone. Anyone may contribute, and contributions are available to all users according to open-source values and licenses.
+- **Transparent and accessible**: Any changes to the Kyverno source code and collaborations on the project are publicly accessible (GitHub issues, PRs, and discussions).
+- **Merit**: Ideas and contributions are accepted according to their technical merit and alignment with project objectives, scope, and design principles.
 
 ## Code of Conduct
 
 Kyverno follows the [Code of Conduct](CODE_OF_CONDUCT.md), which is aligned with the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/main/code-of-conduct.md).
 
+## Vendor Neutrality
+
+Kyverno follows the CNCF vendor neutrality guidelines documented at:
+
+   https://contribute.cncf.io/maintainers/community/vendor-neutrality/
+
 ## Meetings
 
 Kyverno community meetings follow a defined [schedule](https://kyverno.io/community/#community-meetings).
 
-The maintainers will also have closed meetings to discuss security reports or Code of Conduct violations. Such meetings should be scheduled by any maintainer on receipt of a security issue or CoC report. All current Maintainers must be invited to such closed meetings, except for any maintainer who is accused of a CoC violation.
+The maintainers may also have closed meetings to discuss security reports or Code of Conduct violations. Such meetings should be scheduled by any maintainer on receipt of a security issue or CoC report. All current Maintainers must be invited to such closed meetings, except for any maintainer who is accused of a CoC violation.
 
 ## Roles
 
-The Kyverno project welcomes all contributors and has well-defined roles specified at [Project Roles](https://kyverno.io/community/#project-roles).
+The Kyverno community welcomes all contributors and has well-defined roles specified at [Project Roles](https://kyverno.io/community/#project-roles).
 
 ## Conflict Resolutions
 
