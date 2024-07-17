@@ -6,7 +6,7 @@ This document defines governance policies for the [Kyverno and its sub-projects]
 - [Code of Conduct](#code-of-conduct)
 - [Vendor Neutrality](#vendor-neutrality)
 - [Meetings](#meetings)
-- [Roles and Process in the Kyverno Community](#roles)
+- [Roles and Process in the Kyverno Community](#project-roles)
 - [Conflict Resolutions](#conflict-resolutions)
 - [Changes](#changes)
 - [Credits](#credits)
