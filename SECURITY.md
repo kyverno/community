@@ -38,4 +38,4 @@ Kyverno versions follow [Semantic Versioning](https://semver.org/) terminology a
 - y is the minor version
 - and z is the patch version
 
-Security fixes may be backported to the three most recent minor releases, depending on severity and feasibility. Patch releases are cut from those branches periodically, plus additional urgent releases, when required.
+Security fixes are typically addressed in the main branch and may be backported to one prior minor release depending on severity and feasibility. Patch releases are built from prior branches periodically, and may be created on-demand for critical security fixes.
