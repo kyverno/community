@@ -84,8 +84,8 @@ Maintainers are individuals who have shown good technical judgement in feature d
 - Have at least ten (10) significant PRs successfully merged for any combination of repositories under the Kyverno organization
 - Member of the kyverno channel on Kubernetes and/or CNCF Slack
 - Attended five (5) Contributors Meetings as documented
-- Registered for the Kyverno mailing list
-- Create a pull request to add self to CODEOWNERS file in at least one (1) repository
+- Registered for the Kyverno [mailing list](https://groups.google.com/g/kyverno)
+- Create a pull request to add self to `CODEOWNERS` file in at least one (1) repository
 - Attained a minimum of two (2) positive votes from maintainers
 - Respond to reviews from maintainers on pull requests
 - Proficient in GitHub, YAML, Markdown, and Git
@@ -116,7 +116,7 @@ Maintainers are individuals who have shown good technical judgement in feature d
 **Privileges of a Maintainer**
 
 - Listed as an organization member
-- Listed in CODEOWNERS in at least one (1) repository
+- Listed in `CODEOWNERS` in at least one (1) repository
 - Have issues assigned to them
 - Have PRs assigned to them
 - Receives a Kyverno Maintainer Badge
