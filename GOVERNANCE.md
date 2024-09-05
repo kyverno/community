@@ -193,6 +193,30 @@ The roles used in this document are custom roles mapped according to the [GitHub
 
 If any of the above roles hasn't contributed in any phases (including, but not limited to: code changes, doc updates, issue discussions) in 3 months, the administrator needs to inform the member and remove one's roles and GitHub permissions.
 
+## Maintainers Areas
+
+The Kyverno code base covers many areas and project maintainers are not required to know everything about the project.
+For this reason, maintainers are specific to one (or more) area of the code base.
+Every area represent a specific aspect of the project.
+
+### Kyverno areas
+
+- API: The Kyverno APIs exposed to users
+- Helm chart: Packaging of the Kyverno project
+- Engine: The Kyverno policy engine
+- Reporting: The Kyverno reporting system
+- Webhooks configuration: Configuration of the webhooks based on policies present in the cluster
+- Cleanup: Cleanup policies engine
+- Image verification: Integration with Cosign and Notary
+- CLI: Command line interface
+- Policies catalog: Our policy catalog
+- Website: Our website/blog/docs
+
+This list is not exhaustive and is subject to modifications as the project evolves over time.
+
+Questions:
+- How do we want to manage other projects like website, policies catalog, chainsaw, kyverno-json, policy-reporter, playground, kyverno-envoy, etc.. ?
+- Some aspects should be common to multiple areas, things like observability, utils, ... ?
 
 ## Conflict Resolutions
 
