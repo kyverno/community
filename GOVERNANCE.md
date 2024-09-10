@@ -7,6 +7,7 @@ This document defines governance policies for the [Kyverno and its sub-projects]
 - [Vendor Neutrality](#vendor-neutrality)
 - [Meetings](#meetings)
 - [Roles and Process in the Kyverno Community](#project-roles)
+- [Maintainers Areas](#maintainers-areas)
 - [Conflict Resolutions](#conflict-resolutions)
 - [Changes](#changes)
 - [Credits](#credits)
@@ -162,28 +163,39 @@ If any of the above roles hasn't contributed in any phases (including, but not l
 
 ## Maintainers Areas
 
-The Kyverno code base covers many areas and project maintainers are not required to know everything about the project.
-For this reason, maintainers are specific to one (or more) area of the code base.
-Every area represent a specific aspect of the project.
+The Kyverno projects code base cover many areas and project maintainers are not required to know everything about a project.
+For this reason, maintainers can be specific to one (or more) area of the code base, every area representing a specific aspect.
 
-### Kyverno areas
+### Kyverno Projects
 
-- API: The Kyverno APIs exposed to users
-- Helm chart: Packaging of the Kyverno project
-- Engine: The Kyverno policy engine
-- Reporting: The Kyverno reporting system
-- Webhooks configuration: Configuration of the webhooks based on policies present in the cluster
-- Cleanup: Cleanup policies engine
-- Image verification: Integration with Cosign and Notary
-- CLI: Command line interface
-- Policies catalog: Our policy catalog
-- Website: Our website/blog/docs
+- [Kyverno](https://github.com/kyverno/kyverno)
+- [Kyverno Website](https://github.com/kyverno/website)
+- [Kyverno Policies](https://github.com/kyverno/policies)
+- [Kyverno JSON](https://github.com/kyverno/kyverno-json)
+- [Kyverno Chainsaw](https://github.com/kyverno/chainsaw)
+- [Kyverno Playground](https://github.com/kyverno/playground)
+- [Kyverno Policy Reporter](https://github.com/kyverno/policy-reporter)
+- [Kyverno Reports Server](https://github.com/kyverno/reports-server)
+
+### Projects areas
 
 This list is not exhaustive and is subject to modifications as the project evolves over time.
 
-Questions:
-- How do we want to manage other projects like website, policies catalog, chainsaw, kyverno-json, policy-reporter, playground, kyverno-envoy, etc.. ?
-- Some aspects should be common to multiple areas, things like observability, utils, ... ?
+| Project | Area | Description |
+|---|---|---|
+| Kyverno | `website` | Kyverno projects website and docs |
+| Kyverno | `policies-catalog` | Kyverno currated policies |
+| Kyverno | `helm-chart` | Kyverno Helm chart |
+| Kyverno | `engine` | Kyverno policy engine |
+| Kyverno | `cli` | Kyverno CLI |
+| Kyverno | `report-system` | Kyverno reporting system |
+| Kyverno JSON | `` | Kyverno JSON project |
+| Kyverno Chainsaw | `` | Kyverno Chainsaw project |
+| Kyverno Playground | `frontend` | Kyverno Playground frontend |
+| Kyverno Playground | `backend` | Kyverno Playground backend |
+| Kyverno Playground | `helm-chart` | Kyverno Playground Helm chart |
+| Kyverno Policy Reporter | `` | Kyverno Policy Reporter project |
+| Kyverno Reports Server | `` | Kyverno Reports Server project |
 
 ## Conflict Resolutions
 
