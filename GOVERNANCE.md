@@ -7,6 +7,7 @@ This document defines governance policies for the [Kyverno and its sub-projects]
 - [Vendor Neutrality](#vendor-neutrality)
 - [Meetings](#meetings)
 - [Roles and Process in the Kyverno Community](#project-roles)
+- [Maintainer Areas](#maintainer-areas)
 - [Conflict Resolutions](#conflict-resolutions)
 - [Changes](#changes)
 - [Credits](#credits)
@@ -160,6 +161,43 @@ The roles used in this document are custom roles mapped according to the [GitHub
 
 If any of the above roles hasn't contributed in any phases (including, but not limited to: code changes, doc updates, issue discussions) in 3 months, the administrator needs to inform the member and remove one's roles and GitHub permissions.
 
+## Maintainer Areas
+
+The Kyverno projects code base cover many areas and project maintainers are not required to know everything about a project.
+For this reason, maintainers can be specific to one (or more) area of the code base, every area representing a specific aspect.
+
+### Kyverno Projects
+
+- [Kyverno](https://github.com/kyverno/kyverno)
+- [Kyverno Website](https://github.com/kyverno/website)
+- [Kyverno Policies](https://github.com/kyverno/policies)
+- [Kyverno JSON](https://github.com/kyverno/kyverno-json)
+- [Kyverno Chainsaw](https://github.com/kyverno/chainsaw)
+- [Kyverno Playground](https://github.com/kyverno/playground)
+- [Kyverno Policy Reporter](https://github.com/kyverno/policy-reporter)
+- [Kyverno Reports Server](https://github.com/kyverno/reports-server)
+
+### Projects areas
+
+This list is not exhaustive and is subject to modifications as the project evolves over time.
+
+| Project | Area | Description |
+|---|---|---|
+| Kyverno | `website` | Kyverno projects website and docs |
+| Kyverno | `policies-catalog` | Kyverno currated policies |
+| Kyverno | `helm-chart` | Kyverno Helm chart |
+| Kyverno | `engine` | Kyverno policy engine |
+| Kyverno | `cli` | Kyverno CLI |
+| Kyverno | `report-system` | Kyverno reporting system |
+| Kyverno JSON | `` | Kyverno JSON project |
+| Kyverno Chainsaw | `` | Kyverno Chainsaw project |
+| Kyverno Playground | `frontend` | Kyverno Playground frontend |
+| Kyverno Playground | `backend` | Kyverno Playground backend |
+| Kyverno Playground | `helm-chart` | Kyverno Playground Helm chart |
+| Kyverno Policy Reporter | `frontend` | Kyverno Policy Reporter frontend |
+| Kyverno Policy Reporter | `backend` | Kyverno Policy Reporter backend |
+| Kyverno Policy Reporter | `helm-chart` | Kyverno Policy Reporter Helm chart |
+| Kyverno Reports Server | `` | Kyverno Reports Server project |
 
 ## Conflict Resolutions
 
