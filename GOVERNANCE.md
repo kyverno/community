@@ -161,7 +161,7 @@ The roles used in this document are custom roles mapped according to the [GitHub
 
 If any of the above roles hasn't contributed in any phases (including, but not limited to: code changes, doc updates, issue discussions) in 3 months, the administrator needs to inform the member and remove one's roles and GitHub permissions.
 
-## Maintainers Areas
+## Maintainer Areas
 
 The Kyverno projects code base cover many areas and project maintainers are not required to know everything about a project.
 For this reason, maintainers can be specific to one (or more) area of the code base, every area representing a specific aspect.
