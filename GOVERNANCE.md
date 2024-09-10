@@ -2,15 +2,23 @@
 
 This document defines governance policies for the [Kyverno and its sub-projects](https://github.com/kyverno#projects):
 
-- [Principles](#principles)
-- [Code of Conduct](#code-of-conduct)
-- [Vendor Neutrality](#vendor-neutrality)
-- [Meetings](#meetings)
-- [Roles and Process in the Kyverno Community](#project-roles)
-- [Maintainer Areas](#maintainer-areas)
-- [Conflict Resolutions](#conflict-resolutions)
-- [Changes](#changes)
-- [Credits](#credits)
+- [Kyverno Governance](#kyverno-governance)
+  - [Principles](#principles)
+  - [Code of Conduct](#code-of-conduct)
+  - [Vendor Neutrality](#vendor-neutrality)
+  - [Meetings](#meetings)
+  - [Project Roles](#project-roles)
+    - [Summary of Roles](#summary-of-roles)
+      - [Contributors](#contributors)
+      - [Maintainers](#maintainers)
+      - [Mapping Project Roles to GitHub Roles](#mapping-project-roles-to-github-roles)
+    - [Off-boarding Guidance](#off-boarding-guidance)
+  - [Maintainer Areas](#maintainer-areas)
+    - [Kyverno Projects](#kyverno-projects)
+    - [Projects areas](#projects-areas)
+  - [Conflict Resolutions](#conflict-resolutions)
+  - [Changes](#changes)
+  - [Credits](#credits)
 
 ## Principles
 
@@ -50,8 +58,8 @@ The table below summarizes project roles and responsibilities. Details are provi
 
 | Role | Requirements | Ongoing Responsibilities | Defined by |
 | ------------ | --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| Contributors | At least five (5) contributions to the project.   | None | CONTRIBUTORS.md                                   |
-| Maintainer   | Highly experienced and active contributor + Kyverno Certification + Voted in by Kyverno maintainers. | Monitor project growth, set direction and priorities for a subproject. | Voted in by the Kyverno maintainers, listing in `MAINTAINERS.md`, GitHub organization member, and repository owner. |
+| Contributors | At least five (5) contributions to any sub-project.   | None | CONTRIBUTORS.md                                   |
+| Maintainer   | At least five (5) contributions to a sub-project + Highly experienced and active contributor + Voted in by Kyverno maintainers. | Monitor project growth, set direction and priorities for a subproject. | Voted in by the Kyverno maintainers, listing in `MAINTAINERS.md`, GitHub organization member, and repository owner. |
 
 #### Contributors
 
@@ -78,16 +86,16 @@ To join the Kyverno project as a Contributor create a Pull Request (PR) in the [
 
 Maintainers are individuals who have shown good technical judgement in feature design/development in the past. Maintainers have overall knowledge of the project and features in the project. They can read, clone, and push to the repository. They can also manage issues, pull requests, and some repository settings.
 
-[Maintainers](https://docs.github.com/en/organizations/managing-access-to-your-organizations-repositories/repository-roles-for-an-organization#repository-access-for-each-permission-level) are the technical authority for a subproject and are considered leaders for the organization as a whole. They must have demonstrated both good judgement and responsibility towards the health of the subproject. Maintainers must set technical direction and make or approve design decisions for their subproject, either directly or through delegation of these responsibilities. Unlike contributors, maintainers have the highest degree of responsibility and ownership for the project. Maintainer status may be subject to a vote and, if the minimum level of activity is not maintained, may be moved to an _emeritus_ status.
+Maintainers are the technical authority for a subproject and are considered leaders for the organization as a whole. They must have demonstrated both good judgement and responsibility towards the health of the subproject. Maintainers must set technical direction and make or approve design decisions for their subproject, either directly or through delegation of these responsibilities. Unlike contributors, maintainers have the highest degree of responsibility and ownership for the project. Maintainer status may be subject to a vote and, if the minimum level of activity is not maintained, may be moved to an _emeritus_ status.
 
 **Checklist before becoming a Maintainer:**
 
 - Have at least ten (10) significant PRs successfully merged for any combination of repositories under the Kyverno organization
-- Member of the kyverno channel on Kubernetes and/or CNCF Slack
-- Attended five (5) Contributors Meetings as documented
+- Member of the `#kyverno` and `#kyverno-dev` channels on Kubernetes Slack workspace and the `#kyverno` channel on the CNCF Slack workspace
+- Regularly attends Kyverno [Maintainers and Community Meetings](https://kyverno.io/community/#community-meetings)
 - Registered for the Kyverno [mailing list](https://groups.google.com/g/kyverno)
 - Create a pull request to add self to `CODEOWNERS` file in at least one (1) repository
-- Attained a minimum of two (2) positive votes from maintainers
+- Attained a minimum of two (3) positive votes from maintainers
 - Respond to reviews from maintainers on pull requests
 - Proficient in GitHub, YAML, Markdown, and Git
 - Exhibits strong attention to detail when reviewing commits and provides generous guidance and feedback
@@ -99,7 +107,7 @@ Maintainers are individuals who have shown good technical judgement in feature d
 - Makes contributions that are considered notable
 - Demonstrates ability to help troubleshoot and resolve user issues
 - Has achieved the Kyverno Certification or demonstrated an equivalent mastery of Kyverno
-- Maintains an active status for a period of two to three (2-3) months
+- Maintains a consistent level of activity with contributions to the project
 
 **Responsibilities of a Maintainer**
 
@@ -118,6 +126,7 @@ Maintainers are individuals who have shown good technical judgement in feature d
 
 - Listed as an organization member
 - Listed in `CODEOWNERS` in at least one (1) repository
+- Member of the https://lists.cncf.io/g/cncf-kyverno-maintainers mailing list
 - Have issues assigned to them
 - Have PRs assigned to them
 - Receives a Kyverno Maintainer Badge
@@ -125,7 +134,7 @@ Maintainers are individuals who have shown good technical judgement in feature d
 
 **On-boarding Criteria**
 
-- Voted in by a majority of current maintainers, raised in a PR by the proposed member to add themselves to `MAINTAINERS.md`, during a voting period lasting seven (7) days
+- Voted in by a majority of current maintainers, raised in a PR by the proposed member to add themselves to `MAINTAINERS.md`, during a voting period lasting at least three (3) working days
 
 **Off-boarding Criteria**
 
@@ -140,12 +149,8 @@ The off-boarding process includes the following steps:
 - If the candidate for removal states plans to continue participating, another 6 months will be granted to the candidate to make contributions and the new cycle starts. No action is taken and this process terminates.
 - If the candidate fails to meet the criteria during the second attempt to make contributions, the off-boarding process continues.
 - A pull request (PR) proposing movement of the candidate is sent, initiating the public voting phase.
-- The vote passes if a majority of current maintainers vote yes during a voting period lasting seven (7) days.
+- The vote passes if a majority of current maintainers vote yes during a voting period lasting five (5) working days.
 - A positive vote will result in movement to an _emeritus_ status within `MAINTAINERS.md` and removal from organization membership.
-
-#### Admins
-
-These are persons who have full access to the project, including sensitive and destructive actions like managing security or deleting a repository. Admins can read, clone, and push to this repository. They can also manage issues, pull requests, and repository settings, including adding collaborators.
 
 #### Mapping Project Roles to GitHub Roles
 
@@ -155,7 +160,6 @@ The roles used in this document are custom roles mapped according to the [GitHub
 | -------------- | -------------- |
 | Contributor    | Triage         |
 | Maintainer     | Maintain       |
-| Administrator  | Admin          |
 
 ### Off-boarding Guidance
 
