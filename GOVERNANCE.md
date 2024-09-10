@@ -194,7 +194,9 @@ This list is not exhaustive and is subject to modifications as the project evolv
 | Kyverno Playground | `frontend` | Kyverno Playground frontend |
 | Kyverno Playground | `backend` | Kyverno Playground backend |
 | Kyverno Playground | `helm-chart` | Kyverno Playground Helm chart |
-| Kyverno Policy Reporter | `` | Kyverno Policy Reporter project |
+| Kyverno Policy Reporter | `frontend` | Kyverno Policy Reporter frontend |
+| Kyverno Policy Reporter | `backend` | Kyverno Policy Reporter backend |
+| Kyverno Policy Reporter | `helm-chart` | Kyverno Policy Reporter Helm chart |
 | Kyverno Reports Server | `` | Kyverno Reports Server project |
 
 ## Conflict Resolutions
