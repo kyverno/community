@@ -7,7 +7,7 @@ This document defines governance policies for the [Kyverno and its sub-projects]
 - [Vendor Neutrality](#vendor-neutrality)
 - [Meetings](#meetings)
 - [Roles and Process in the Kyverno Community](#project-roles)
-- [Maintainers Areas](#maintainers-areas)
+- [Maintainer Areas](#maintainer-areas)
 - [Conflict Resolutions](#conflict-resolutions)
 - [Changes](#changes)
 - [Credits](#credits)
