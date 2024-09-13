@@ -59,7 +59,7 @@ The table below summarizes project roles and responsibilities. Details are provi
 | Role | Requirements | Ongoing Responsibilities | Defined by |
 | ------------ | --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | Contributors | At least five (5) contributions to any sub-project.   | None | CONTRIBUTORS.md                                   |
-| Maintainer   | At least five (5) contributions to a sub-project + Highly experienced and active contributor + Voted in by Kyverno maintainers. | Monitor project growth, set direction and priorities for a subproject. | Voted in by the Kyverno maintainers, listing in `MAINTAINERS.md`, GitHub organization member, and repository owner. |
+| Maintainer   | At least five (10) contributions to a sub-project + Highly experienced and active contributor + Voted in by Kyverno maintainers. | Monitor project growth, set direction and priorities for a subproject. | Voted in by the Kyverno maintainers, listing in `MAINTAINERS.md`, GitHub organization member, and repository owner. |
 
 #### Contributors
 
@@ -193,15 +193,15 @@ This list is not exhaustive and is subject to modifications as the project evolv
 | Kyverno | `engine` | Kyverno policy engine |
 | Kyverno | `cli` | Kyverno CLI |
 | Kyverno | `report-system` | Kyverno reporting system |
-| Kyverno JSON | `` | Kyverno JSON project |
-| Kyverno Chainsaw | `` | Kyverno Chainsaw project |
+| Kyverno JSON | -- | Kyverno JSON project |
+| Kyverno Chainsaw | -- | Kyverno Chainsaw project |
 | Kyverno Playground | `frontend` | Kyverno Playground frontend |
 | Kyverno Playground | `backend` | Kyverno Playground backend |
 | Kyverno Playground | `helm-chart` | Kyverno Playground Helm chart |
 | Kyverno Policy Reporter | `frontend` | Kyverno Policy Reporter frontend |
 | Kyverno Policy Reporter | `backend` | Kyverno Policy Reporter backend |
 | Kyverno Policy Reporter | `helm-chart` | Kyverno Policy Reporter Helm chart |
-| Kyverno Reports Server | `` | Kyverno Reports Server project |
+| Kyverno Reports Server | -- | Kyverno Reports Server project |
 
 ## Conflict Resolutions
 
