@@ -1,6 +1,6 @@
 ## Contributors
 
-Contributors are those who have made enough contributions to the project as defined in the [Contributing guide](https://kyverno.io/community/#contributing). 
+Contributors are those who have made enough contributions to the project as defined in the [Contributing guide](https://kyverno.io/community/#contributing).
 
 In order to add yourself as a contributor, please open a PR to add your information to the contributor list below, with a list of your contributions to the project in the PR description.
 
@@ -20,3 +20,4 @@ In order to add yourself as a contributor, please open a PR to add your informat
 | Pradeep Narasimha        | [@praddy26](https://github.com/praddy26)               |
 | Sagar Kundral            | [@nsagark](https://github.com/nsagark)                 |
 | Anudeep Nalla            | [@anuddeeph1](https://github.com/anuddeeph1)           |
+| Pratik Shah              | [@shahpratikr](https://github.com/shahpratikr)         |
