@@ -53,6 +53,7 @@ profiles:
     #   days    | day    | d
     #   weeks   | week   | w
     #
+
     duration: 1w
 
     # Pass threshold (required)
@@ -162,6 +163,7 @@ profiles:
   # profile is used when using the /vote command, but its values are not used as
   # default values when they are not provided on other profiles.
   #
+
   # profile1:
   #   duration: 1m
   #   pass_threshold: 75
