@@ -95,7 +95,7 @@ Maintainers are the technical authority for a subproject and are considered lead
 - Regularly attends Kyverno [Maintainers and Community Meetings](https://kyverno.io/community/#community-meetings)
 - Registered for the Kyverno [mailing list](https://groups.google.com/g/kyverno)
 - Create a pull request to add self to `CODEOWNERS` file in at least one (1) repository
-- Attained a minimum of two (3) positive votes from maintainers
+- Attained the super majority vote (66%) from maintainers
 - Respond to reviews from maintainers on pull requests
 - Proficient in GitHub, YAML, Markdown, and Git
 - Exhibits strong attention to detail when reviewing commits and provides generous guidance and feedback
