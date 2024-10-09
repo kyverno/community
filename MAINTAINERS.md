@@ -78,7 +78,7 @@ https://github.com/orgs/kyverno/teams/policies-maintainers
 |--------------------------|--------------------------------------------------------|---------------------------|
 | Vyankatesh Kudtarkar     | [@vyankyGH](https://github.com/vyankyGH)               |                           |
 | Prateek Pandey           | [@prateekpandey14](https://github.com/prateekpandey14) |                           |
-| Sambhav Kothari          | [@samj1912](https://github.com/samj1912)               | Bloomberg                 |
+| Sambhav Kothari          | [@sambhav](https://github.com/sambhav)               | Bloomberg                 |
 | Trey Dockendorf          | [@treydock](https://github.com/treydock)               | Ohio Supercomputer Center |
 | Marcel Müller            | [@MarcelMue](https://github.com/MarcelMue)             | Giant Swarm GmbH          |
 | Chip Zoller              | [@chipzoller](https://github.com/chipzoller)           | Stackwatch (Kubecost)     |
