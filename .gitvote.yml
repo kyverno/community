@@ -92,7 +92,7 @@ profiles:
     #   exclude_team_maintainers: false
     #
     allowed_voters:
-      teams: []
+      teams: [binding-votes]
       users: []
 
     # Periodic status check
