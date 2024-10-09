@@ -56,10 +56,10 @@ This document highlights the roles and responsibilities for the Kyverno communit
 
 The table below summarizes project roles and responsibilities. Details are provided in the sections following the table:
 
-| Role | Requirements | Ongoing Responsibilities | Defined by |
-| ------------ | --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| Contributors | At least five (5) contributions to any sub-project.   | None | CONTRIBUTORS.md                                   |
-| Maintainer   | At least five (10) contributions to a sub-project + Highly experienced and active contributor + Voted in by Kyverno maintainers. | Monitor project growth, set direction and priorities for a subproject. | Voted in by the Kyverno maintainers, listing in `MAINTAINERS.md`, GitHub organization member, and repository owner. |
+| Role         | Requirements                                                                                                                     | Ongoing Responsibilities                                               | Defined by                                                                                                          |
+| ------------ | -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| Contributors | At least five (5) contributions to any sub-project.                                                                              | None                                                                   | CONTRIBUTORS.md                                                                                                     |
+| Maintainer   | At least ten (10) contributions to a sub-project + Highly experienced and active contributor + Voted in by Kyverno maintainers.  | Monitor project growth, set direction and priorities for a subproject. | Voted in by the Kyverno maintainers, listing in `MAINTAINERS.md`, GitHub organization member, and repository owner. |
 
 #### Contributors
 
