@@ -70,7 +70,14 @@ https://github.com/orgs/kyverno/teams/policies-maintainers
 | Vishal Choudhary         | [@vishal-chdhry](https://github.com/vishal-chdhry)     | Nirmata                   |
 | Mariam Fahmy             | [@MariamFahmy98](https://github.com/MariamFahmy98)     | Nirmata  
 
+## Kyverno Envoy Plugin Maintainers
 
+https://github.com/orgs/kyverno/teams/kyverno-envoy-plugin-maintainers
+
+| Maintainer               | GitHub ID                                              | Affiliation               |
+|--------------------------|--------------------------------------------------------|---------------------------|
+| Charles-Edouard Brétéché | [@eddycharly](https://github.com/eddycharly)           | Nirmata                   |
+| Anushka Mittal           | [@anushkamittal20](https://github.com/anushkamittal20) |                    |
 
 ## Maintainers Emeritus
 
