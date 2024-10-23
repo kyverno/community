@@ -77,7 +77,7 @@ https://github.com/orgs/kyverno/teams/kyverno-envoy-plugin-maintainers
 | Maintainer               | GitHub ID                                              | Affiliation               |
 |--------------------------|--------------------------------------------------------|---------------------------|
 | Charles-Edouard Brétéché | [@eddycharly](https://github.com/eddycharly)           | Nirmata                   |
-| Anushka Mittal           | [@anushkamittal20](https://github.com/anushkamittal20) |                    |
+| Anushka Mittal           | [@anushkamittal20](https://github.com/anushkamittal20) |  Chainguard             |
 
 ## Maintainers Emeritus
 
