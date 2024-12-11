@@ -180,6 +180,7 @@ For this reason, maintainers can be specific to one (or more) area of the code b
 - [Kyverno Playground](https://github.com/kyverno/playground)
 - [Kyverno Policy Reporter](https://github.com/kyverno/policy-reporter)
 - [Kyverno Reports Server](https://github.com/kyverno/reports-server)
+- [Kyverno Backstage Policy Reporter](https://github.com/VELUX/backstage-policy-reporter-plugin)
 
 ### Projects areas
 
@@ -202,6 +203,8 @@ This list is not exhaustive and is subject to modifications as the project evolv
 | Kyverno Policy Reporter | `backend` | Kyverno Policy Reporter backend |
 | Kyverno Policy Reporter | `helm-chart` | Kyverno Policy Reporter Helm chart |
 | Kyverno Reports Server | -- | Kyverno Reports Server project |
+| Kyverno Backstage Policy Reporter | `frontend` | Kyverno Backstage Policy Reporter frontend |
+| Kyverno Backstage Policy Reporter | `backend` | Kyverno Backstage Policy Reporter backend |
 
 ## Conflict Resolutions
 
