@@ -77,7 +77,17 @@ https://github.com/orgs/kyverno/teams/kyverno-envoy-plugin-maintainers
 | Maintainer               | GitHub ID                                              | Affiliation               |
 |--------------------------|--------------------------------------------------------|---------------------------|
 | Charles-Edouard Brétéché | [@eddycharly](https://github.com/eddycharly)           | Nirmata                   |
-| Anushka Mittal           | [@anushkamittal20](https://github.com/anushkamittal20) |  Chainguard             |
+| Anushka Mittal           | [@anushkamittal20](https://github.com/anushkamittal20) | Chainguard                |
+
+## Kyverno Backstage Policy Reporter
+
+https://github.com/orgs/kyverno/teams/backstage-policy-reporter-maintainers
+
+| Maintainer               | GitHub ID                                              | Affiliation               |
+|--------------------------|--------------------------------------------------------|---------------------------|
+| Jonas Beck               | [@Jonas-Beck](https://github.com/Jonas-Beck)           |  VELUX                    |
+| Jacob Lorenzen           | [@Jaxwood](https://github.com/Jaxwood)                 |  VELUX                    |
+
 
 ## Maintainers Emeritus
 
