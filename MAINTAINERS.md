@@ -13,6 +13,7 @@ https://github.com/orgs/kyverno/teams/kyverno-maintainers
 | Charles-Edouard Brétéché | [@eddycharly](https://github.com/eddycharly)           | Nirmata                   |
 | Vishal Choudhary         | [@vishal-chdhry](https://github.com/vishal-chdhry)     | Nirmata                   |
 | Mariam Fahmy             | [@MariamFahmy98](https://github.com/MariamFahmy98)     | Nirmata                   |          
+| Frank Jogeleit           | [@fjogeleit](https://github.com/fjogeleit)             | Nirmata                   |          
 
 ## Kyverno JSON Maintainers
 
@@ -41,7 +42,7 @@ https://github.com/orgs/kyverno/teams/policy-reporter-maintainers
 
 | Maintainer               | GitHub ID                                              | Affiliation               |
 |--------------------------|--------------------------------------------------------|---------------------------|
-| Frank | [@fjogeleit](https://github.com/fjogeleit)           | Nirmata
+| Frank Jogeleit           | [@fjogeleit](https://github.com/fjogeleit)             | Nirmata
 
 
 
