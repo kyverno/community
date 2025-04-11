@@ -24,3 +24,4 @@ In order to add yourself as a contributor, please open a PR to add your informat
 | Amarbir Singh         | [@a-5ingh](https://github.com/A-5ingh)                     |
 | Ekambaram Pasham      | [@epasham](https://github.com/epasham)                     |
 | Mike Bryant           | [@mikebryant](https://github.com/mikebryant)               |
+| Yugandhar Suthari     | [@yrsuthari](https://github.com/yrsuthari)                 |
