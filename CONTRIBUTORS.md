@@ -4,7 +4,7 @@ Contributors are those who have made enough contributions to the project as defi
 
 In order to add yourself as a contributor, please open a PR to add your information to the contributor list below, with a list of your contributions to the project in the PR description.
 
-| Contributor            | GitHub ID                                                  |
+| Contributor           | GitHub ID                                                  |
 | --------------------- | ---------------------------------------------------------- |
 | Ved Ratan             | [@VedRatan](https://github.com/VedRatan)                   |
 | Chandan DK            | [@Chandan-DK](https://github.com/Chandan-DK)               |
@@ -26,3 +26,4 @@ In order to add yourself as a contributor, please open a PR to add your informat
 | Mike Bryant           | [@mikebryant](https://github.com/mikebryant)               |
 | Karthik Manam         | [@karthikmanam](https://github.com/karthikmanam)           |
 | Yugandhar Suthari     | [@yrsuthari](https://github.com/yrsuthari)                 |
+| Rohan Jha             | [@Rohanraj123](https://github.com/Rohanraj123)             |
