@@ -27,4 +27,4 @@ In order to add yourself as a contributor, please open a PR to add your informat
 | Karthik Manam         | [@karthikmanam](https://github.com/karthikmanam)           |
 | Yugandhar Suthari     | [@yrsuthari](https://github.com/yrsuthari)                 |
 | Rohan Jha             | [@Rohanraj123](https://github.com/Rohanraj123)             |
-| Samson S. Kolge       | [@samsonkolge][https://github.com/samsonkolge]             |
+| Samson S. Kolge       | [@samsonkolge](https://github.com/samsonkolge)             |
