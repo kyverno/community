@@ -42,7 +42,7 @@ Kyverno follows the CNCF vendor neutrality guidelines documented at:
 
 Kyverno community meetings follow a defined [schedule](https://kyverno.io/community/#community-meetings).
 
-The maintainers may also have closed meetings to discuss security reports or Code of Conduct violations. Such meetings should be scheduled by any maintainer on receipt of a security issue or CoC report. All current Maintainers must be invited to such closed meetings, except for any maintainer who is accused of a CoC violation.
+The maintainers may also have closed meetings to discuss security reports or Code of Conduct (CoC) violations. Such meetings should be scheduled by any maintainer on receipt of a security issue or CoC report. All current Maintainers must be invited to such closed meetings, except for any maintainer who is accused of a CoC violation.
 
 ## Project Roles
 
@@ -58,29 +58,29 @@ The table below summarizes project roles and responsibilities. Details are provi
 
 | Role         | Requirements                                                                                                                     | Ongoing Responsibilities                                               | Defined by                                                                                                          |
 | ------------ | -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| Contributors | At least three (3) to five (5) contributions to any sub-project.                                                                              | None                                                                   | CONTRIBUTORS.md                                                                                                     |
-| Maintainer   | At least eight (8) to ten (10) contributions to a sub-project + Highly experienced and active contributor + Nominated by Kyverno maintainers and voted in.  | Monitor project growth, set direction and priorities for a subproject. | Voted in by the Kyverno maintainers, listing in `MAINTAINERS.md`, GitHub organization member, and repository owner. |
+| Contributors | At least five (5) contributions to any sub-project.                                                                              | None                                                                   | CONTRIBUTORS.md                                                                                                     |
+| Maintainer   | Between eight (8) to ten (10) contributions to a sub-project + Highly experienced and active contributor + Nominated by Kyverno maintainers and voted in.  | Monitor project growth, set direction and priorities for a subproject. | Voted in by the Kyverno maintainers, listing in `MAINTAINERS.md`, GitHub organization member, and repository owner. |
 
 #### Contributors
 
-Contributors are individuals who have made at least three (3) to five (5) contributions to the project. Contributions can be a combination of: authoring PRs, commenting on issues and pull requests, creating blog posts and/or tutorials about Kyverno, and participating in community discussions on Slack or the mailing list.
+Contributors are individuals who have made five (5) contributions to the project. Contributions can be a combination of: authoring PRs, commenting on issues and pull requests, creating blog posts and/or tutorials about Kyverno, and participating in community discussions on Slack or the mailing list.
 
 **Checklist before becoming a Contributor**
 
-- Have at least three (3) to five (5) contributions documented which can be: PRs successfully merged for any repositories under the Kyverno organization, published blog posts and/or tutorials about Kyverno, etc.
+- Have at least five (5) documented contributions, three (3) of which must be successfully merged PRs for any repositories under the Kyverno organization. The remaining two (2) contributions can be a combination of: successfully merged PRs, extensive collaboration on issues and/or other PRs authored by others, blog posts and/or tutorials about Kyverno authored by the Contributor, and/or participation in community discussions and support of other community members on our `#kyverno` channels on Kubernetes and/or CNCF Slack.
 - Member of the `#kyverno` channel on Kubernetes and/or CNCF Slack
-- Attended one (1) Contributors Meeting as documented
+- Attended one (1) Contributors Meeting as documented during your the time your contributions were made
 - Registered for the Kyverno [mailing list](https://groups.google.com/g/kyverno)
 
 **Privileges of a Contributor**
 
 - Listed in the file in at least one (1) organization repository
-- Kyverno contributor badge issued
+- Kyverno Contributor badge issued
 
 To join the Kyverno project as a Contributor create a Pull Request (PR) in the [Kyverno repository](https://github.com/kyverno/kyverno) with the following:
 1. Changes to add yourself to the [CONTRIBUTORS.md](https://github.com/kyverno/kyverno/blob/main/CONTRIBUTORS.md) file.
-2. Links to your prior contributions (at least three).
-3. Links to slack discussions, issue comments, published blog posts, tutorials, etc.
+2. Links to your prior contributions (at least three (3) successfully merged PRs + another two (2) contributions as listed above).
+3. Links to any contributions that were not PRs including slack discussions, issue comments, published blog posts, tutorials, etc.
 
 #### Maintainers
 
