@@ -14,6 +14,7 @@ https://github.com/orgs/kyverno/teams/kyverno-maintainers
 | Vishal Choudhary         | [@vishal-chdhry](https://github.com/vishal-chdhry)     | Nirmata                   |
 | Mariam Fahmy             | [@MariamFahmy98](https://github.com/MariamFahmy98)     | Nirmata                   |          
 | Frank Jogeleit           | [@fjogeleit](https://github.com/fjogeleit)             | Nirmata                   |          
+| Liang Deng               | [@YTGhost](https://github.com/YTGhost)                 | Kuaishou Technology       |
 
 ## Kyverno JSON Maintainers
 
