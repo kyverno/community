@@ -15,6 +15,7 @@ https://github.com/orgs/kyverno/teams/kyverno-maintainers
 | Mariam Fahmy             | [@MariamFahmy98](https://github.com/MariamFahmy98)     | Nirmata                   |          
 | Frank Jogeleit           | [@fjogeleit](https://github.com/fjogeleit)             | Nirmata                   |          
 | Liang Deng               | [@YTGhost](https://github.com/YTGhost)                 | Kuaishou Technology       |
+| Jonas Beck               | [@Jonas-Beck](https://github.com/Jonas-Beck)           | VELUX                     |
 
 ## Kyverno JSON Maintainers
 
