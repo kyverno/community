@@ -11,9 +11,9 @@ https://github.com/orgs/kyverno/teams/kyverno-maintainers
 | Jim Bugwadia             | [@JimBugwadia](https://github.com/JimBugwadia)         | Nirmata                   |
 | Shuting Zhao             | [@realshuting](https://github.com/realshuting)         | Nirmata                   |
 | Charles-Edouard Brétéché | [@eddycharly](https://github.com/eddycharly)           | Nirmata                   |
-| Vishal Choudhary         | [@vishal-chdhry](https://github.com/vishal-chdhry)     | Nirmata                   |
-| Mariam Fahmy             | [@MariamFahmy98](https://github.com/MariamFahmy98)     | Nirmata                   |          
-| Frank Jogeleit           | [@fjogeleit](https://github.com/fjogeleit)             | Nirmata                   |          
+| Vishal Choudhary         | [@vishal-chdhry](https://github.com/vishal-chdhry)     | Chainguard                |
+| Mariam Fahmy             | [@MariamFahmy98](https://github.com/MariamFahmy98)     | Nirmata                   |
+| Frank Jogeleit           | [@fjogeleit](https://github.com/fjogeleit)             | Nirmata                   |
 | Liang Deng               | [@YTGhost](https://github.com/YTGhost)                 | Kuaishou Technology       |
 | Jonas Beck               | [@Jonas-Beck](https://github.com/Jonas-Beck)           | VELUX                     |
 
@@ -24,7 +24,7 @@ https://github.com/orgs/kyverno/teams/kyverno-json-maintainers
 | Maintainer               | GitHub ID                                              | Affiliation               |
 |--------------------------|--------------------------------------------------------|---------------------------|
 | Charles-Edouard Brétéché | [@eddycharly](https://github.com/eddycharly)           | Nirmata                   |
-| Vishal Choudhary         | [@vishal-chdhry](https://github.com/vishal-chdhry)     | Nirmata                   |
+| Vishal Choudhary         | [@vishal-chdhry](https://github.com/vishal-chdhry)     | Chainguard                |
 | Jim Bugwadia             | [@JimBugwadia](https://github.com/JimBugwadia)         | Nirmata                   |
 
 ## Kyverno Chainsaw Maintainers
@@ -35,7 +35,7 @@ https://github.com/orgs/kyverno/teams/chainsaw-maintainers
 |--------------------------|--------------------------------------------------------|---------------------------|
 | Charles-Edouard Brétéché | [@eddycharly](https://github.com/eddycharly)           | Nirmata                   |
 | Shubham Gupta            | [@shubham-cmyk](https://github.com/shubham-cmyk)       | -                         |
-| Mariam Fahmy             | [@MariamFahmy98](https://github.com/MariamFahmy98)     | Nirmata            
+| Mariam Fahmy             | [@MariamFahmy98](https://github.com/MariamFahmy98)     | Nirmata                   |
 
 
 ## Kyverno Policy Reporter Maintainers
@@ -57,8 +57,8 @@ https://github.com/orgs/kyverno/teams/website-maintainers
 | Jim Bugwadia             | [@JimBugwadia](https://github.com/JimBugwadia)         | Nirmata                   |
 | Shuting Zhao             | [@realshuting](https://github.com/realshuting)         | Nirmata                   |
 | Charles-Edouard Brétéché | [@eddycharly](https://github.com/eddycharly)           | Nirmata                   |
-| Vishal Choudhary         | [@vishal-chdhry](https://github.com/vishal-chdhry)     | Nirmata                   |
-| Mariam Fahmy             | [@MariamFahmy98](https://github.com/MariamFahmy98)     | Nirmata            
+| Vishal Choudhary         | [@vishal-chdhry](https://github.com/vishal-chdhry)     | Chainguard                |
+| Mariam Fahmy             | [@MariamFahmy98](https://github.com/MariamFahmy98)     | Nirmata                   |
 
 ## Kyverno Sample Policies Repository Maintainers
 
@@ -70,8 +70,8 @@ https://github.com/orgs/kyverno/teams/policies-maintainers
 | Jim Bugwadia             | [@JimBugwadia](https://github.com/JimBugwadia)         | Nirmata                   |
 | Shuting Zhao             | [@realshuting](https://github.com/realshuting)         | Nirmata                   |
 | Charles-Edouard Brétéché | [@eddycharly](https://github.com/eddycharly)           | Nirmata                   |
-| Vishal Choudhary         | [@vishal-chdhry](https://github.com/vishal-chdhry)     | Nirmata                   |
-| Mariam Fahmy             | [@MariamFahmy98](https://github.com/MariamFahmy98)     | Nirmata  
+| Vishal Choudhary         | [@vishal-chdhry](https://github.com/vishal-chdhry)     | Chainguard                |
+| Mariam Fahmy             | [@MariamFahmy98](https://github.com/MariamFahmy98)     | Nirmata                   |
 
 ## Kyverno Envoy Plugin Maintainers
 
@@ -98,7 +98,7 @@ https://github.com/orgs/kyverno/teams/backstage-policy-reporter-maintainers
 |--------------------------|--------------------------------------------------------|---------------------------|
 | Vyankatesh Kudtarkar     | [@vyankyGH](https://github.com/vyankyGH)               |                           |
 | Prateek Pandey           | [@prateekpandey14](https://github.com/prateekpandey14) |                           |
-| Sambhav Kothari          | [@sambhav](https://github.com/sambhav)               | Bloomberg                 |
+| Sambhav Kothari          | [@sambhav](https://github.com/sambhav)                 | Bloomberg                 |
 | Trey Dockendorf          | [@treydock](https://github.com/treydock)               | Ohio Supercomputer Center |
 | Marcel Müller            | [@MarcelMue](https://github.com/MarcelMue)             | Giant Swarm GmbH          |
 | Chip Zoller              | [@chipzoller](https://github.com/chipzoller)           | Stackwatch (Kubecost)     |
