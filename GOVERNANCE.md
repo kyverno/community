@@ -8,9 +8,14 @@ This document defines governance policies for the [Kyverno and its sub-projects]
   - [Vendor Neutrality](#vendor-neutrality)
   - [Meetings](#meetings)
   - [Project Roles](#project-roles)
+    - [Contributor Ladder](#contributor-ladder)
     - [Summary of Roles](#summary-of-roles)
+      - [New Contributors](#new-contributors)
       - [Contributors](#contributors)
+      - [Reviewers](#reviewers)
       - [Maintainers](#maintainers)
+      - [Progression Process](#progression-process)
+      - [Benefits of Contribution](benefits-of-contribution)
       - [Mapping Project Roles to GitHub Roles](#mapping-project-roles-to-github-roles)
     - [Off-boarding Guidance](#off-boarding-guidance)
   - [Maintainer Areas](#maintainer-areas)
@@ -52,35 +57,93 @@ This document highlights the roles and responsibilities for the Kyverno communit
 
 **Note:** Please make sure to read the CNCF [Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md).
 
+### Contributor Ladder
+
+Kyverno has defined a Contributor Ladder to recognize and promote contributors as they grow in involvement and impact. Each role is progressive, meaning that to move to the next level, a contributor must first have met the expectations of the previous level.
+
 ### Summary of Roles
 
-The table below summarizes project roles and responsibilities. Details are provided in the sections following the table:
+The table below summarizes project roles and responsibilities. Details are provided in the sections following the table. Details are provided in the sections following the table. Additionally, the roles used in this document are custom roles mapped according to the [GitHub roles and responsibilities](https://docs.github.com/en/organizations/managing-access-to-your-organizations-repositories/repository-roles-for-an-organization).
 
-| Role         | Requirements                                                                                                                     | Ongoing Responsibilities                                               | Defined by                                                                                                          |
+| Role         | Description & Requirements                                                                                                                     | Ongoing Responsibilities                                               | Defined by                                                                                                          |
 | ------------ | -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| Contributors | At least five (5) contributions to any sub-project.                                                                              | None                                                                   | CONTRIBUTORS.md                                                                                                     |
-| Maintainer   | Between eight (8) to ten (10) contributions to a sub-project + Highly experienced and active contributor + Nominated by Kyverno maintainers and voted in.  | Monitor project growth, set direction and priorities for a subproject. | Voted in by the Kyverno maintainers, listing in `MAINTAINERS.md`, GitHub organization member, and repository owner. |
+| New Contributors | Has made initial contributions and is beginning to engage in the community.                                                                              | None                                                                   | N/A                                                                                                     |
+| Contributors | After completion of five (5) contributions to the project or any sub-project community members are eligible for this role.                                                                              | None                                                                   | CONTRIBUTORS.md                                                                                                     |
+| Reviewers | Make regular contributions, engage in issues, and participate in the community by providing support to others as needed.                                                                              | Triage                                                                   | REVIEWERS.md                                                                                                     |
+| Maintainers | Owns areas of the project; responsible for approving changes and setting direction.                                                                              | Maintain                                                                   | MAINTAINERS.md
+
+#### New Contributors
+
+New Contributors are individuals who are new to our community and project and are looking to:
+- Engage with the Kyverno community (Slack, mailing list, discussions)
+- Make their first contributions to the project (issues, pull requests, discussion, documentation, support and conversations with other community members in Slack, blog writing, talks, and other content creation, etc.)
 
 #### Contributors
 
 Contributors are individuals who have made five (5) contributions to the project. Contributions can be a combination of: authoring PRs, commenting on issues and pull requests, creating blog posts and/or tutorials about Kyverno, and participating in community discussions on Slack or the mailing list.
 
-**Checklist before becoming a Contributor**
+**Checklist for becoming a Contributor**
 
-- Have at least five (5) documented contributions, three (3) of which must be successfully merged PRs for any repositories under the Kyverno organization. The remaining two (2) contributions can be a combination of: successfully merged PRs, extensive collaboration on issues and/or other PRs authored by others, blog posts and/or tutorials about Kyverno authored by the Contributor, and/or participation in community discussions and support of other community members on our `#kyverno` channels on Kubernetes and/or CNCF Slack.
+- Have at least five (5) documented contributions:
+  - Three (3) contributions must be successfully merged PRs for any repositories under the Kyverno organization.
+  - The remaining two (2) contributions can be a combination of: successfully merged PRs, extensive collaboration on issues and/or other PRs authored by others, blog posts and/or tutorials about Kyverno authored by the Contributor, and/or participation in community discussions and support of other community members on our `#kyverno` channels on Kubernetes and/or CNCF Slack
 - Member of the `#kyverno` channel on Kubernetes and/or CNCF Slack
-- Attended one (1) Contributors Meeting as documented during your the time your contributions were made
-- Registered for the Kyverno [mailing list](https://groups.google.com/g/kyverno)
+- Attended one (1) Community or Maintainer Meeting as documented during the time your contributions were made
+- Be a registered member of the Kyverno [mailing list](https://groups.google.com/g/kyverno)
 
 **Privileges of a Contributor**
 
 - Listed in the file in at least one (1) organization repository
-- Kyverno Contributor badge issued
+- Kyverno Contributor badge issued via Credly
+- Can be trusted to contribute safely and effectively
 
 To join the Kyverno project as a Contributor create a Pull Request (PR) in the [Kyverno repository](https://github.com/kyverno/kyverno) with the following:
-1. Changes to add yourself to the [CONTRIBUTORS.md](https://github.com/kyverno/kyverno/blob/main/CONTRIBUTORS.md) file.
-2. Links to your prior contributions (at least three (3) successfully merged PRs + another two (2) contributions as listed above).
+1. Changes to add yourself to the [CONTRIBUTORS.md](https://github.com/kyverno/kyverno/blob/main/CONTRIBUTORS.md) file
+2. Links to your prior contributions (at least three (3) successfully merged PRs + another two (2) contributions as listed above)
 3. Links to any contributions that were not PRs including slack discussions, issue comments, published blog posts, tutorials, etc.
+4. Date of attendance at a Community and/or Maintainer Meeting
+
+#### Reviewers
+
+Reviewers are individuals who have already been accepted and are listed in the CONTRIBUTOR.md.
+
+They make regular contributions, engage in issues, and participate in the community by providing support to others as needed. Reviewers are appointed by Maintainers based on their dedication and participation in the project.
+
+**Checklist for becoming a Reviewer**
+
+- Have completed all steps in the above mentioned Contributor guidelines
+- Reviewed and contributed to multiple PRs across the codebase
+- Active participation in community meetings and/or design discussions
+- Clear communication and collaborative approach
+- Demonstrates both deep understanding of the codebase and consistent high-quality contributions
+- Actively reviews code from other contributors
+- May be responsible for specific areas of the codebase as assigned by the Maintainer team (designated in CODEOWNERS)
+- Appointed or nominated by a Maintainer
+
+**Responsibilities of a Reviewer**
+
+- Perform detailed code reviews and provide constructive feedback
+- Ensure submitted code adheres to project style, testing, and documentation standards
+- Collaborate with contributors to help improve pull requests before merging
+- Communicate with Maintainers about any issues you encounter
+- Participate actively in design discussions and community meetings
+- Help triage issues and provide support in GitHub, Slack, or discussion forums
+- Maintain awareness of project goals and architecture to ensure alignment
+- Serve as a mentor to newer contributors
+- Keep up-to-date with project changes and ongoing initiatives
+- Represent the project in the community with professionalism and respect
+
+
+**Privileges of a Reviewer**
+
+- Triage access to the repository (e.g., labeling, assigning issues/PRs)
+- Ability to formally approve pull requests (/lgtm, /approve where applicable)
+- May be added to the CODEOWNERS file for designated areas of the codebase
+- Recognition in the REVIEWERS.md and governance documents
+- Eligibility for nomination to Maintainer roles
+- Early access to roadmap discussions and design proposals
+- Greater influence in shaping technical direction and priorities
+- Invited to participate in exclusive contributor discussions (e.g., Maintainer syncs)
 
 #### Maintainers
 
@@ -152,14 +215,26 @@ The off-boarding process includes the following steps:
 - The vote passes if a majority of current maintainers vote yes during a voting period lasting five (5) working days.
 - A positive vote will result in movement to an _emeritus_ status within `MAINTAINERS.md` and removal from organization membership.
 
+#### Progression Process
+
+Progression to a new role requires an appointment or nomination by an existing Maintainer. All role appointments and nominations are subject to a vote.
+- All role appointments, nominations, and votes must be documented in a GitHub issue or pull request
+- Contributions across any Kyverno sub-projects count toward progression. The list of acceptable contributions is listed above.
+
+#### Benefits of the Contributor Ladder
+
+The Contribution Ladder is meant to provide clear expectations and transparency for how to grow within the project and ensure that all contributors are recognized for their efforts, commitment, and support of our community ensuring contributor growth and project sustainability.
+
 #### Mapping Project Roles to GitHub Roles
 
 The roles used in this document are custom roles mapped according to the [GitHub roles and responsibilities](https://docs.github.com/en/organizations/managing-access-to-your-organizations-repositories/repository-roles-for-an-organization).
 
-| Project Role   | GitHub Role    |
-| -------------- | -------------- |
-| Contributor    | Triage         |
-| Maintainer     | Maintain       |
+| Project Role       | GitHub Role    |
+| ------------------ | -------------- |
+| New Contributor    | None           |
+| Contributor        | None           |
+| Reviewer           | Write          |
+| Maintainer         | Maintain       |
 
 ### Off-boarding Guidance
 
