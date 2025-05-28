@@ -44,7 +44,8 @@ https://github.com/orgs/kyverno/teams/policy-reporter-maintainers
 
 | Maintainer               | GitHub ID                                              | Affiliation               |
 |--------------------------|--------------------------------------------------------|---------------------------|
-| Frank Jogeleit           | [@fjogeleit](https://github.com/fjogeleit)             | Nirmata
+| Frank Jogeleit           | [@fjogeleit](https://github.com/fjogeleit)             | Nirmata                   |
+| Ammar Yasser             | [@aerosouund](https://github.com/aerosouund)           | Nirmata                   |
 
 
 
