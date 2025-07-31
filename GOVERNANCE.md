@@ -63,7 +63,7 @@ Kyverno has defined a Contributor Ladder to recognize and promote contributors a
 
 ### Summary of Roles
 
-The table below summarizes project roles and responsibilities. Details are provided in the sections following the table. Details are provided in the sections following the table. Additionally, the roles used in this document are custom roles mapped according to the [GitHub roles and responsibilities](https://docs.github.com/en/organizations/managing-access-to-your-organizations-repositories/repository-roles-for-an-organization).
+The table below summarizes project roles and responsibilities. Details are provided in the sections following the table. Additionally, the roles used in this document are custom roles mapped according to the [GitHub roles and responsibilities](https://docs.github.com/en/organizations/managing-access-to-your-organizations-repositories/repository-roles-for-an-organization).
 
 | Role         | Description & Requirements                                                                                                                     | Ongoing Responsibilities                                               | Defined by                                                                                                          |
 | ------------ | -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
