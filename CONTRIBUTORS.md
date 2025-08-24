@@ -31,3 +31,4 @@ In order to add yourself as a contributor, please open a PR to add your informat
 | Sonali Srivastava     | [@cerebro1](https://github.com/cerebro1)                   |
 | Abhishek Dhiman       | [@dhimanAbhi](https://github.com/dhimanAbhi)               |
 | Luc Chmielowski       | [@lucchmielowski](https://github.com/lucchmielowski)       |
+| Jinesh Jain           | [@Jineshbansal](https://github.com/Jineshbansal)           |
