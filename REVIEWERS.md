@@ -9,5 +9,4 @@ https://github.com/orgs/kyverno/teams/kyverno-maintainers
 | Maintainer               | GitHub ID                                              | Affiliation               |
 |--------------------------|--------------------------------------------------------|---------------------------|
 | Ammar Yasser             | [@aerosouund](https://github.com/aerosouund)           | Nirmata                   |
-| Yugandhar Suthari        | [@yrsuthari](https://github.com/yrsuthari)             |                           |
-| Xu Liu                   | [@liuxu623](https://github.com/liuxu623)               |                           |
+| Xu Liu                   | [@liuxu623](https://github.com/liuxu623)               | RedNote                   |
