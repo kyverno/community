@@ -60,6 +60,8 @@ https://github.com/orgs/kyverno/teams/website-maintainers
 | Charles-Edouard Brétéché | [@eddycharly](https://github.com/eddycharly)           | Nirmata                   |
 | Vishal Choudhary         | [@vishal-chdhry](https://github.com/vishal-chdhry)     | Chainguard                |
 | Mariam Fahmy             | [@MariamFahmy98](https://github.com/MariamFahmy98)     | Nirmata                   |
+| Ammar Yasser             | [@aerosouund](https://github.com/aerosouund)           | Nirmata                   |
+| Luc Chmielowski          | [@lucchmielowski](https://github.com/lucchmielowski)   | Nirmata                   |
 
 ## Kyverno Sample Policies Repository Maintainers
 
