@@ -2,6 +2,27 @@
 
 Please refer to the [Project Governance](https://kyverno.io/community/#project-governance) for more information on the responsibilities and privileges of being a maintainer for the Kyverno project.
 
+## Kyverno maintainers
+
+This list includes active maintainers from all Kyverno projects and repositories under the [kyverno](https://github.com/kyverno) GitHub organization.
+
+| Maintainer               | GitHub ID                                              | Affiliation               |
+|--------------------------|--------------------------------------------------------|---------------------------|
+| Jim Bugwadia             | [@JimBugwadia](https://github.com/JimBugwadia)         | Nirmata                   |
+| Shuting Zhao             | [@realshuting](https://github.com/realshuting)         | Nirmata                   |
+| Charles-Edouard Brétéché | [@eddycharly](https://github.com/eddycharly)           | Nirmata                   |
+| Vishal Choudhary         | [@vishal-chdhry](https://github.com/vishal-chdhry)     | Chainguard                |
+| Mariam Fahmy             | [@MariamFahmy98](https://github.com/MariamFahmy98)     | Nirmata                   |
+| Frank Jogeleit           | [@fjogeleit](https://github.com/fjogeleit)             | Nirmata                   |
+| Liang Deng               | [@YTGhost](https://github.com/YTGhost)                 | Kuaishou Technology       |
+| Jonas Beck               | [@Jonas-Beck](https://github.com/Jonas-Beck)           | VELUX                     |
+| Shubham Gupta            | [@shubham-cmyk](https://github.com/shubham-cmyk)       | -                         |
+| Ammar Yasser             | [@aerosouund](https://github.com/aerosouund)           | Nirmata                   |
+| Luc Chmielowski          | [@lucchmielowski](https://github.com/lucchmielowski)   | Nirmata                   |
+| Anushka Mittal           | [@anushkamittal20](https://github.com/anushkamittal20) | Chainguard                |
+| Jacob Lorenzen           | [@Jaxwood](https://github.com/Jaxwood)                 | VELUX                     |
+
+
 ## Kyverno For Kubernetes Maintainers
 
 https://github.com/orgs/kyverno/teams/kyverno-maintainers
@@ -15,7 +36,6 @@ https://github.com/orgs/kyverno/teams/kyverno-maintainers
 | Mariam Fahmy             | [@MariamFahmy98](https://github.com/MariamFahmy98)     | Nirmata                   |
 | Frank Jogeleit           | [@fjogeleit](https://github.com/fjogeleit)             | Nirmata                   |
 | Liang Deng               | [@YTGhost](https://github.com/YTGhost)                 | Kuaishou Technology       |
-| Jonas Beck               | [@Jonas-Beck](https://github.com/Jonas-Beck)           | VELUX                     |
 
 ## Kyverno Chainsaw Maintainers
 
@@ -36,7 +56,6 @@ https://github.com/orgs/kyverno/teams/policy-reporter-maintainers
 |--------------------------|--------------------------------------------------------|---------------------------|
 | Frank Jogeleit           | [@fjogeleit](https://github.com/fjogeleit)             | Nirmata                   |
 | Ammar Yasser             | [@aerosouund](https://github.com/aerosouund)           | Nirmata                   |
-
 
 
 ## Kyverno Website Maintainers
