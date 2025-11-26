@@ -17,16 +17,6 @@ https://github.com/orgs/kyverno/teams/kyverno-maintainers
 | Liang Deng               | [@YTGhost](https://github.com/YTGhost)                 | Kuaishou Technology       |
 | Jonas Beck               | [@Jonas-Beck](https://github.com/Jonas-Beck)           | VELUX                     |
 
-## Kyverno JSON Maintainers
-
-https://github.com/orgs/kyverno/teams/kyverno-json-maintainers
-
-| Maintainer               | GitHub ID                                              | Affiliation               |
-|--------------------------|--------------------------------------------------------|---------------------------|
-| Charles-Edouard Brétéché | [@eddycharly](https://github.com/eddycharly)           | Nirmata                   |
-| Vishal Choudhary         | [@vishal-chdhry](https://github.com/vishal-chdhry)     | Chainguard                |
-| Jim Bugwadia             | [@JimBugwadia](https://github.com/JimBugwadia)         | Nirmata                   |
-
 ## Kyverno Chainsaw Maintainers
 
 https://github.com/orgs/kyverno/teams/chainsaw-maintainers
