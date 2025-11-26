@@ -66,7 +66,7 @@ https://github.com/orgs/kyverno/teams/policies-maintainers
 | Vishal Choudhary         | [@vishal-chdhry](https://github.com/vishal-chdhry)     | Chainguard                |
 | Mariam Fahmy             | [@MariamFahmy98](https://github.com/MariamFahmy98)     | Nirmata                   |
 
-## Kyverno Envoy Plugin Maintainers
+## Kyverno-authz Maintainers
 
 https://github.com/orgs/kyverno/teams/kyverno-envoy-plugin-maintainers
 
@@ -74,6 +74,8 @@ https://github.com/orgs/kyverno/teams/kyverno-envoy-plugin-maintainers
 |--------------------------|--------------------------------------------------------|---------------------------|
 | Charles-Edouard Brétéché | [@eddycharly](https://github.com/eddycharly)           | Nirmata                   |
 | Anushka Mittal           | [@anushkamittal20](https://github.com/anushkamittal20) | Chainguard                |
+| Ammar Yasser             | [@aerosouund](https://github.com/aerosouund)           | Nirmata                   |
+| Luc Chmielowski          | [@lucchmielowski](https://github.com/lucchmielowski)   | Nirmata                   |
 
 ## Kyverno Backstage Policy Reporter
 
