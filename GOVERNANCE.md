@@ -287,7 +287,7 @@ This list is not exhaustive and is subject to modifications as the project evolv
   
 ### Purpose
 
-The purpose of the Steering & Oversight Committee (“the Committee”) is to provide an invite-only, external-facing governance body that
+The purpose of the Steering & Oversight Committee (“the Committee”) is to provide an external-facing governance body, composed of members elected and appointed from the broader Kyverno ecosystem that
 
 -   helps ensure Kyverno remains sustainably maintained, healthy and relevant in the cloud-native ecosystem,  
       
@@ -334,31 +334,24 @@ The Committee will undertake the following responsibilities:
 
 #### 3.1 Membership
 
--   The Committee shall consist of 5 - 7 members invited by the maintainers / governance team.  
-      
-    
--   Membership is by nomination and a simple majority of votes from the project Maintainers. For each nomination, an open voting process will take place for Maintainers to vote and other community members to show their support of each nominee.
-    
--   Nominations are extended to individuals/organisations who are:  
-      
+- The Committee shall consist of 5–7 members.
 
--   Significant end-users of Kyverno (e.g., large organisations or teams that run Kyverno at scale)  
+- At least two (2) Committee members shall be elected through an open nomination and voting process. Nominations may be made by project Maintainers, existing Committee members, or community members. Elections are decided by a simple majority of votes from the project Maintainers, with community members encouraged to show their support for nominees.
+
+- The remaining Committee seats may be filled by appointment (for example, to ensure diversity of organisations, geographies, and roles), but each appointment must be ratified by a simple majority vote of the project Maintainers.
       
+-   Significant end-users of Kyverno (e.g., large organisations or teams that run Kyverno at scale)  
     
 -   Ecosystem partners/integrators (e.g., vendors, service providers, cloud providers who embed or support Kyverno)  
       
-    
 -   Distinguished contributors or thought-leaders in the cloud-native policy, Kubernetes, or infrastructure as code space, especially those outside the core maintainers.  
-      
-    
+       
 -   Champions of sustainability, diversity and community health in open-source projects.  
-      
-
+    
 -   Each member serves a term of (6) six months, renewable at the maintainers’discretion. Members may serve multiple terms. Membership is voluntary and unpaid. 
     
 -   The maintainers may appoint a committee “chair” or “rotating facilitator” (see Section 4).  
       
-    
 
 #### Eligibility & Conflicts of Interest
 
