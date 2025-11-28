@@ -37,6 +37,18 @@ https://github.com/orgs/kyverno/teams/kyverno-maintainers
 | Frank Jogeleit           | [@fjogeleit](https://github.com/fjogeleit)             | Nirmata                   |
 | Liang Deng               | [@YTGhost](https://github.com/YTGhost)                 | Kuaishou Technology       |
 
+## Kyverno CLI Maintainers
+
+| Maintainer               | GitHub ID                                              | Affiliation               |
+|--------------------------|--------------------------------------------------------|---------------------------|
+| Yugandhar Suthari        | [@yrsuthari](https://github.com/yrsuthari)             | Independent Contributor   |
+
+## Kyverno GlobalContextEntry Maintainers
+
+| Maintainer               | GitHub ID                                              | Affiliation               |
+|--------------------------|--------------------------------------------------------|---------------------------|
+| Yugandhar Suthari        | [@yrsuthari](https://github.com/yrsuthari)             | Independent Contributor   |
+
 ## Kyverno Chainsaw Maintainers
 
 https://github.com/orgs/kyverno/teams/chainsaw-maintainers
