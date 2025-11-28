@@ -21,6 +21,7 @@ This list includes active maintainers from all Kyverno projects and repositories
 | Luc Chmielowski          | [@lucchmielowski](https://github.com/lucchmielowski)   | Nirmata                   |
 | Anushka Mittal           | [@anushkamittal20](https://github.com/anushkamittal20) | Chainguard                |
 | Jacob Lorenzen           | [@Jaxwood](https://github.com/Jaxwood)                 | VELUX                     |
+| Yugandhar Suthari        | [@yrsuthari](https://github.com/yrsuthari)             | Independent Contributor   |
 
 
 ## Kyverno For Kubernetes Maintainers
@@ -36,6 +37,7 @@ https://github.com/orgs/kyverno/teams/kyverno-maintainers
 | Mariam Fahmy             | [@MariamFahmy98](https://github.com/MariamFahmy98)     | Nirmata                   |
 | Frank Jogeleit           | [@fjogeleit](https://github.com/fjogeleit)             | Nirmata                   |
 | Liang Deng               | [@YTGhost](https://github.com/YTGhost)                 | Kuaishou Technology       |
+| Yugandhar Suthari        | [@yrsuthari](https://github.com/yrsuthari)             | Independent Contributor   |
 
 ## Kyverno Chainsaw Maintainers
 
