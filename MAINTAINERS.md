@@ -60,6 +60,14 @@ https://github.com/orgs/kyverno/teams/policy-reporter-maintainers
 | Ammar Yasser             | [@aerosouund](https://github.com/aerosouund)           | Nirmata                   |
 
 
+## Kyverno Reports Server Maintainers
+
+| Maintainer               | GitHub ID                                              | Affiliation               |
+|--------------------------|--------------------------------------------------------|---------------------------|
+| Frank Jogeleit           | [@fjogeleit](https://github.com/fjogeleit)             | Nirmata                   |
+| Ammar Yasser             | [@aerosouund](https://github.com/aerosouund)           | Nirmata                   |
+
+
 ## Kyverno Website Maintainers
 
 https://github.com/orgs/kyverno/teams/website-maintainers
