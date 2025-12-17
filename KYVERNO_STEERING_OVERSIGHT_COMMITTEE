@@ -1,0 +1,243 @@
+# Kyverno Steering & Oversight Committee (KSOC)
+
+  
+### Purpose
+
+The purpose of the Steering & Oversight Committee (“the Committee”) is to provide an external-facing governance body, composed of members elected and appointed from the broader Kyverno ecosystem that
+
+-   helps ensure Kyverno remains sustainably maintained, healthy and relevant in the cloud-native ecosystem,  
+      
+    
+-   provides a venue for diverse end-user, ecosystem and stakeholder voices to have strategic input into the project’s direction,  
+      
+    
+-   acts as a promoter and ambassador for the project—helping raise awareness, drive adoption, surface feedback, and connect users to development, and  
+      
+    
+-   serves as a check and balance on day-to-day project operations (while not interfering with the operational flows of the maintainers) by offering guidance on long-term strategy, project health and ecosystem fit.  
+      
+    
+
+In short: the Committee is not the “maintainers’ board” dictating every pull request or commit, but rather a strategic oversight and advisory body whose members are committed to the project’s long-term success and sustainability.
+
+### Scope & Responsibilities
+
+The Committee will undertake the following responsibilities:
+
+-   Strategic Review: At least annually, review the project’s roadmap, major milestones, health metrics (e.g., contributor growth, issue backlog, release cadence) and advise on strategic direction.  
+      
+    
+-   Ecosystem / End-User Voice: Provide input from end-users, ecosystem partners, large users of Kyverno, CNCF-adjacent projects, or vendor/partner organisations. Bring real-world feedback into the project.  
+      
+    
+-   Advocacy & Promotion: Serve as ambassadors for Kyverno—promoting the project inside their organisations, at conferences, in the cloud-native ecosystem; raising visibility; helping drive adoption and ecosystem partnerships.  
+      
+    
+-   Sustainability Oversight: Monitor long-term sustainability of the project (maintenance, documentation, community health, funding/sponsorship where relevant). Provide guidance if the project risks stagnation or becoming orphaned.  
+      
+    
+-   Governance Liaison: Act as a bridge between the broader user/consumer community and the project maintainers. Provide a forum for larger organisational users of Kyverno to engage with the project direction in a structured way.  
+      
+    
+-   Advisory Role: Provide advice and feedback to the maintainers or project leadership (e.g., the core maintainers team, working group leads) on decisions that have a broad ecosystem impact—such as changes to governance, major API/behaviour changes, deprecation plans, compatibility commitments, etc.  
+      
+    
+-   No Day-To-Day Execution: The Committee does not manage day-to-day code review, ticket triage, maintainers’ assignments or handle routine operations of the project. Those remain with the maintainers and working groups.  
+      
+    
+
+### Composition & Membership
+
+#### 3.1 Membership
+
+- The Committee shall consist of 5–7 members.
+
+- At least two (2) Committee members shall be elected through an open nomination and voting process. Nominations may be made by project Maintainers, existing Committee members, or community members. Elections are decided by a simple majority of votes from the project Maintainers, with community members encouraged to show their support for nominees.
+
+- The remaining Committee seats may be filled by appointment (for example, to ensure diversity of organisations, geographies, and roles), but each appointment must be ratified by a simple majority vote of the project Maintainers.
+      
+-   Significant end-users of Kyverno (e.g., large organisations or teams that run Kyverno at scale)  
+    
+-   Ecosystem partners/integrators (e.g., vendors, service providers, cloud providers who embed or support Kyverno)  
+      
+-   Distinguished contributors or thought-leaders in the cloud-native policy, Kubernetes, or infrastructure as code space, especially those outside the core maintainers.  
+       
+-   Champions of sustainability, diversity and community health in open-source projects.  
+    
+-   Each member serves a term of (6) six months, renewable at the maintainers’discretion for a maximum of two (2) years total. Membership is voluntary and unpaid. 
+    
+-   The maintainers may appoint a committee “chair” or “rotating facilitator” (see Section 4).  
+      
+
+#### Eligibility & Conflicts of Interest
+
+-   Members must abide by the project’s Contributor / Code of Conduct and governance policies.  
+      
+    
+-   Members should disclose any significant conflicts of interest (e.g., their organisation offering a commercial product built on Kyverno, or competing policy-engine vendors). The Committee may adopt a simple conflict-disclosure policy (e.g., list anything relevant in a publicly published members list).  
+      
+    
+-   If a member becomes inactive (fails to attend > 2 consecutive meetings without excuse) or their organisation’s alignment with the project changes significantly, the maintainers may propose replacement.  
+      
+    
+### Meetings & Logistics
+
+#### 4.1 Frequency & Format
+
+-   The Committee shall meet quarterly, i.e., (4) four times per year. Additional ad-hoc meetings may be convened as needed (e.g., major governance or ecosystem issues).  
+      
+    
+-   Meetings are held virtually (via video conference) unless otherwise agreed; an in-person meeting at a major conference (e.g., KubeCon) may be scheduled annually if feasible.  
+      
+    
+-   Meeting length: ~1 hour, plus pre-circulated agenda and materials.  
+      
+    
+-   Meeting notes (agenda, minutes, action items) shall be recorded in the project repository (e.g., in governance/STEERING-COMMITTEE/ folder) and publicly visible (unless sensitive matters require confidential handling).  
+      
+    
+-   A quorum for decisions (recommendations) is half the full membership rounded up (for example, if there are an even number of members e.g. 10 members, quorum = 6). Outcome decisions require a simple majority of attending members when quorum is met.  
+      
+    
+
+#### 4.2 Agenda & Materials
+
+-   The project community leadership shall prepare and circulate the agenda at least 5 business days before each meeting, along with relevant materials (roadmaps, metrics, proposed major changes).  
+      
+    
+-   Members may request agenda items by submitting them to the liaison at least 7 days before the meeting.  
+      
+    
+-   Meetings typically review:  
+      
+
+-   Project status update (metrics, highlights, challenges)  
+      
+    
+-   Roadmap review and strategic discussion  
+      
+    
+-   Ecosystem / end-user feedback  
+      
+    
+-   Sustainability / health issues (contributors, backlog, docs, technical debt)  
+      
+    
+-   Open agenda: members raise topics  
+      
+    
+-   Action-item summary & next steps.  
+      
+    
+
+#### 4.3 Decision-Making & Recommendations
+
+-   The Committee is advisory, not governance-executive: it issues recommendations to the project maintainers / governing body, who retain operational authority.  
+      
+    
+-   Recommendations may be documented publicly (e.g., as a “Steering Committee Recommendation” note) and the maintainers will publicly note responses (accepted, under review, or declined + rationale).  
+      
+    
+-   If a matter is urgent between scheduled meetings, the chair (or liaison) may convene a special meeting or poll asynchronously by email/slack with a shorter timeframe; same quorum rule applies.  
+      
+
+#### 4.4 Liaison & Secretariat
+
+-   A designated Community lead shall serve as the Committee liaison (the “Secretariat”). The liaison is responsible for:  
+        
+
+-   Scheduling meetings, sending agenda and materials  
+      
+    
+-   Taking minutes and tracking action items  
+      
+    
+-   Publishing minutes and updates to the project repository  
+      
+    
+-   Coordinating follow-up with maintainers, and tracking how Committee recommendations are addressed.  
+      
+
+
+#### 4.5 Publication & Transparency
+
+-   The list of Committee members, terms, conflicts disclosures (if any) and meeting minutes shall be publicly visible in the project governance folder (e.g., governance/STEERING-COMMITTEE.md and linked sub-folder).  
+      
+    
+-   Confidential matters (if any) must be clearly flagged; however, the default expectation is transparency to maintain trust.  
+      
+    
+-   Major recommendations (and maintainer responses) may also be reflected in the public project roadmap or governance updates.  
+      
+    
+
+### Recruitment & Termination
+
+#### 5.1 Recruitment Process
+
+-   The maintainers (or governance working group) shall maintain a short-list of potential invitees (based on diversity of organisations, geographies, end-user vs ecosystem partner roles, gender/under-represented groups, and varied user-scenarios).  
+      
+    
+-   Invitations shall be extended by the maintainers, with a brief welcome letter explaining the role, term, expected time commitment, and giving the invitee a 2-week period to accept.  
+      
+    
+-   Once accepted, the member’s name, affiliation, term start date and (optional) conflict disclosure shall be added to the public Committee roster.  
+      
+    
+
+#### 5.2 Termination / Exit
+
+-   A member’s term lasts for a six (6) month period and can be renewed for consecutive six (6) month terms for a total length of two (2) years. At least 1 month prior to the end of each six (6) month term, the liaison will ask if the member wishes to renew (and maintainers will evaluate). If the member has reached the maximum permitted renewal time and has completed two (2) years in their post, they will be contacted by the liason one (1) month prior to the end of their term to inform them that they have reached the limit of this post and to conduct a brief offboarding interview describing their time on the committee.  
+      
+    
+-   If a member fails to respond after 2 reminders, or misses >2 consecutive meetings without valid excuse, the liaison may propose a replacement.  
+      
+    
+-   A member may resign at any time (by sending notice to the liaison).  
+      
+    
+-   The maintainers may remove a member for cause (e.g., repeated failure to participate, breach of code of conduct, significant conflict of interest) after consulting the chair and liaison; in such cases a replacement may be appointed early.  
+      
+    
+
+#### 5.3 Succession & Replacement
+
+-   When a membership vacancy arises (end-term, resignation, removal), the maintainers will select a replacement from the short-list (or extend new invitation), giving priority to ensuring representation balance (organisation type, region, user vs ecosystem).  
+      
+    
+-   The new member will serve a full two-year term (or the remainder of the outgoing member’s term, per policy) and then be eligible for renewal under the same rules.  
+      
+    
+
+### Relationship to Project Governance
+
+-   The Committee complements (but does not replace) existing project governance structures (maintainers, working groups, SIGs, codeowners, issue triage, etc).  
+      
+    
+-   The Committee’s recommendations are not binding, but the maintainers commit to publicly respond to each recommendation (accept/under-consideration/decline with rationale).  
+      
+    
+-   The Committee may review governance changes (e.g., major changes in maintainers’ process, code-owner policy, contributor rights) and provide input.  
+      
+    
+-   The project maintainers remain responsible for day-to-day decisions, code merges, release management, issue backlog, contributor onboarding, etc.  
+      
+    
+
+### Confidentiality & Public-Facing Role
+
+-   Because members are often associated with organisations and may have privileged insight into roadmap or sponsorship matters, some Committee discussions (e.g., future funding, commercial partnerships) may be held under “committee confidentiality”. The liaison will clearly mark which agenda items are confidential.  
+      
+    
+-   Even when discussions are confidential, minutes should summarise outcomes (even if lacking full detail) and recommendations for transparency.  
+      
+    
+-   Members must abide by confidentiality when so marked — e.g., not disclosing embargoed announcements or partner deals.  
+       
+
+### Amendment & Review
+
+-   This Committee charter may be reviewed annually (by the maintainers + Committee) and amended by the maintainers in consultation with the Committee.  
+      
+    
+-   Any amendment shall be published in the project governance folder, with version, date and summary of changes.

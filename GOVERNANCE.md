@@ -21,6 +21,7 @@ This document defines governance policies for the [Kyverno and its sub-projects]
   - [Maintainer Areas](#maintainer-areas)
     - [Kyverno Projects](#kyverno-projects)
     - [Projects areas](#projects-areas)
+  - [Kyverno Steering and Oversight Committee - KSOC] (#kyverno-steering--oversight-committee-ksoc)
   - [Conflict Resolutions](#conflict-resolutions)
   - [Changes](#changes)
   - [Credits](#credits)
@@ -280,6 +281,13 @@ This list is not exhaustive and is subject to modifications as the project evolv
 | Kyverno Reports Server | -- | Kyverno Reports Server project |
 | Kyverno Backstage Policy Reporter | `frontend` | Kyverno Backstage Policy Reporter frontend |
 | Kyverno Backstage Policy Reporter | `backend` | Kyverno Backstage Policy Reporter backend |
+
+## Kyverno Steering & Oversight Committee (KSOC)
+
+The full bylaws and membership structure of the Kyverno Steering & Oversight Committee (KSOC) are documented in the dedicated KSOC governance file:
+
+👉 [KYVERNO_STEERING_OVERSIGHT_COMMITTEE.md](./KYVERNO_STEERING_OVERSIGHT_COMMITTEE.md)
+
 
 ## Conflict Resolutions
 
