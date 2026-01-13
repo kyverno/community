@@ -12,7 +12,7 @@ This list includes active maintainers from all Kyverno projects and repositories
 | Shuting Zhao             | [@realshuting](https://github.com/realshuting)         | Nirmata                   |
 | Charles-Edouard Brétéché | [@eddycharly](https://github.com/eddycharly)           | Nirmata                   |
 | Vishal Choudhary         | [@vishal-chdhry](https://github.com/vishal-chdhry)     | Chainguard                |
-| Mariam Fahmy             | [@MariamFahmy98](https://github.com/MariamFahmy98)     | Nirmata                   |
+| Mariam Fahmy             | [@MariamFahmy98](https://github.com/MariamFahmy98)     | Cloudflare                   |
 | Frank Jogeleit           | [@fjogeleit](https://github.com/fjogeleit)             | Nirmata                   |
 | Liang Deng               | [@YTGhost](https://github.com/YTGhost)                 | Kuaishou Technology       |
 | Jonas Beck               | [@Jonas-Beck](https://github.com/Jonas-Beck)           | VELUX                     |
@@ -35,7 +35,7 @@ https://github.com/orgs/kyverno/teams/kyverno-maintainers
 | Shuting Zhao             | [@realshuting](https://github.com/realshuting)         | Nirmata                   |
 | Charles-Edouard Brétéché | [@eddycharly](https://github.com/eddycharly)           | Nirmata                   |
 | Vishal Choudhary         | [@vishal-chdhry](https://github.com/vishal-chdhry)     | Chainguard                |
-| Mariam Fahmy             | [@MariamFahmy98](https://github.com/MariamFahmy98)     | Nirmata                   |
+| Mariam Fahmy             | [@MariamFahmy98](https://github.com/MariamFahmy98)     | Cloudflare                   |
 | Frank Jogeleit           | [@fjogeleit](https://github.com/fjogeleit)             | Nirmata                   |
 | Liang Deng               | [@YTGhost](https://github.com/YTGhost)                 | Kuaishou Technology       |
 | Yugandhar Suthari        | [@yrsuthari](https://github.com/yrsuthari)             | Independent Contributor   |
@@ -49,7 +49,7 @@ https://github.com/orgs/kyverno/teams/chainsaw-maintainers
 |--------------------------|--------------------------------------------------------|---------------------------|
 | Charles-Edouard Brétéché | [@eddycharly](https://github.com/eddycharly)           | Nirmata                   |
 | Shubham Gupta            | [@shubham-cmyk](https://github.com/shubham-cmyk)       | -                         |
-| Mariam Fahmy             | [@MariamFahmy98](https://github.com/MariamFahmy98)     | Nirmata                   |
+| Mariam Fahmy             | [@MariamFahmy98](https://github.com/MariamFahmy98)     | Cloudflare                   |
 
 
 ## Kyverno Policy Reporter Maintainers
@@ -80,7 +80,7 @@ https://github.com/orgs/kyverno/teams/website-maintainers
 | Shuting Zhao             | [@realshuting](https://github.com/realshuting)         | Nirmata                   |
 | Charles-Edouard Brétéché | [@eddycharly](https://github.com/eddycharly)           | Nirmata                   |
 | Vishal Choudhary         | [@vishal-chdhry](https://github.com/vishal-chdhry)     | Chainguard                |
-| Mariam Fahmy             | [@MariamFahmy98](https://github.com/MariamFahmy98)     | Nirmata                   |
+| Mariam Fahmy             | [@MariamFahmy98](https://github.com/MariamFahmy98)     | Cloudflare                   |
 | Ammar Yasser             | [@aerosouund](https://github.com/aerosouund)           | Nirmata                   |
 | Luc Chmielowski          | [@lucchmielowski](https://github.com/lucchmielowski)   | Nirmata                   |
 
@@ -95,7 +95,7 @@ https://github.com/orgs/kyverno/teams/policies-maintainers
 | Shuting Zhao             | [@realshuting](https://github.com/realshuting)         | Nirmata                   |
 | Charles-Edouard Brétéché | [@eddycharly](https://github.com/eddycharly)           | Nirmata                   |
 | Vishal Choudhary         | [@vishal-chdhry](https://github.com/vishal-chdhry)     | Chainguard                |
-| Mariam Fahmy             | [@MariamFahmy98](https://github.com/MariamFahmy98)     | Nirmata                   |
+| Mariam Fahmy             | [@MariamFahmy98](https://github.com/MariamFahmy98)     | Cloudflare                   |
 
 ## Kyverno-authz Maintainers
 
