@@ -34,3 +34,4 @@ In order to add yourself as a contributor, please open a PR to add your informat
 | Jinesh Jain           | [@Jineshbansal](https://github.com/Jineshbansal)           |
 | Xu Liu                | [@liuxu623](https://github.com/liuxu623)                   |
 | Saurabh Garg          | [@iamsgarg-ob](https://github.com/iamsgarg-ob)             |
+| Ville Vesilehto       | [@thevilledev](https://github.com/thevilledev)             |
