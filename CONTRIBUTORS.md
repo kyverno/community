@@ -35,3 +35,4 @@ In order to add yourself as a contributor, please open a PR to add your informat
 | Xu Liu                | [@liuxu623](https://github.com/liuxu623)                   |
 | Saurabh Garg          | [@iamsgarg-ob](https://github.com/iamsgarg-ob)             |
 | Kartik Angiras        | [@kartikangiras](https://github.com/kartikangiras)         |
+| Ville Vesilehto       | [@thevilledev](https://github.com/thevilledev)             |
