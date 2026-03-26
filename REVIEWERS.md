@@ -12,3 +12,4 @@ https://github.com/orgs/kyverno/teams/kyverno-maintainers
 | Xu Liu                   | [@liuxu623](https://github.com/liuxu623)               | RedNote                   |
 | Yugandhar Suthari        | [@yrsuthari](https://github.com/yrsuthari)             | Independent Contributor   |
 | Luc Chmielowski          | [@lucchmielowski](https://github.com/lucchmielowski)   | Nirmata                   |
+| Daksh Pathak             | [@dakshhhhh16](https://github.com/dakshhhhh16)               | Independent Contributor   |
