@@ -21,7 +21,7 @@ This document defines governance policies for the [Kyverno and its sub-projects]
   - [Maintainer Areas](#maintainer-areas)
     - [Kyverno Projects](#kyverno-projects)
     - [Projects areas](#projects-areas)
-  - [Kyverno Steering and Oversight Committee - KSOC] (#kyverno-steering--oversight-committee-ksoc)
+  - [Kyverno Steering and Oversight Committee - KSOC](#kyverno-steering--oversight-committee-ksoc)
   - [Conflict Resolutions](#conflict-resolutions)
   - [Changes](#changes)
   - [Credits](#credits)
