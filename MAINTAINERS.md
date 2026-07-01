@@ -41,6 +41,7 @@ https://github.com/orgs/kyverno/teams/kyverno-maintainers
 | Yugandhar Suthari        | [@yrsuthari](https://github.com/yrsuthari)             | Independent Contributor   |
 | Xu Liu                   | [@liuxu623](https://github.com/liuxu623)               | RedNote                   |
 | Ammar Yasser             | [@aerosouund](https://github.com/aerosouund)           | Nirmata                   |
+| Luc Chmielowski          | [@lucchmielowski](https://github.com/lucchmielowski)   | Nirmata                   |
 
 ## Kyverno Chainsaw Maintainers
 
