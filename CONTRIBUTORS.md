@@ -40,3 +40,4 @@ In order to add yourself as a contributor, please open a PR to add your informat
 | Sargam Puram          | [@SargamPuram](https://github.com/SargamPuram)             |
 | Suhani                | [@Suhani95](https://github.com/Suhani95)                   |
 | Jyotiraditya Panda    | [@rx18-eng](https://github.com/rx18-eng)                   |
+| Raunak Madan          | [@raunak-nirmata](https://github.com/raunak-nirmata)       |
