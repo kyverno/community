@@ -11,3 +11,5 @@ https://github.com/orgs/kyverno/teams/kyverno-maintainers
 | Ammar Yasser             | [@aerosouund](https://github.com/aerosouund)           | Nirmata                   |
 | Xu Liu                   | [@liuxu623](https://github.com/liuxu623)               | RedNote                   |
 | Yugandhar Suthari        | [@yrsuthari](https://github.com/yrsuthari)             | Independent Contributor   |
+| Luc Chmielowski          | [@lucchmielowski](https://github.com/lucchmielowski)   | Nirmata                   |
+| Jyotiraditya Panda       | [@rx18-eng](https://github.com/rx18-eng)               | Independent Contributor   |
