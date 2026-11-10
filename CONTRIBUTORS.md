@@ -42,3 +42,4 @@ In order to add yourself as a contributor, please open a PR to add your informat
 | Jyotiraditya Panda    | [@rx18-eng](https://github.com/rx18-eng)                   |
 | Raunak Madan          | [@raunak-nirmata](https://github.com/raunak-nirmata)       |
 | Anushka Gupta         | [@anushkagupta200615-jpg](https://github.com/anushkagupta200615-jpg) |
+| Ahmed Faraj           | [@Ahmad-Faraj](https://github.com/Ahmad-Faraj)             |
