@@ -159,7 +159,7 @@ Maintainers are the technical authority for a subproject and are considered lead
 - Regularly attends Kyverno [Maintainers and Community Meetings](https://kyverno.io/community/#community-meetings)
 - Registered for the Kyverno [mailing list](https://groups.google.com/g/kyverno)
 - Create a pull request to add self to `CODEOWNERS` file in at least one (1) repository
-- Attained the super majority vote (50% + Nominator) from maintainers
+- Approved by a maintainer vote (see [Voting](#voting))
 - Respond to reviews from maintainers on pull requests
 - Proficient in GitHub, YAML, Markdown, and Git
 - Exhibits strong attention to detail when reviewing commits and provides generous guidance and feedback
@@ -198,7 +198,7 @@ Maintainers are the technical authority for a subproject and are considered lead
 
 **On-boarding Criteria**
 
-- Nominated by current Maintainer and voted in by a majority of current maintainers or raised in a PR by the proposed member to add themselves to `MAINTAINERS.md`, during a voting period lasting at least three (3) working days
+- Nominated by current Maintainer and voted in by a maintainer vote (see [Voting](#voting)) or raised in a PR by the proposed member to add themselves to `MAINTAINERS.md`, during a voting period lasting at least three (3) working days
 
 **Off-boarding Criteria**
 
@@ -213,7 +213,7 @@ The off-boarding process includes the following steps:
 - If the candidate for removal states plans to continue participating, another 6 months will be granted to the candidate to make contributions and the new cycle starts. No action is taken and this process terminates.
 - If the candidate fails to meet the criteria during the second attempt to make contributions, the off-boarding process continues.
 - A pull request (PR) proposing movement of the candidate is sent, initiating the public voting phase.
-- The vote passes if a majority of current maintainers vote yes during a voting period lasting five (5) working days.
+- The vote passes if it meets the maintainer vote threshold (see [Voting](#voting)) during a voting period lasting five (5) working days.
 - A positive vote will result in movement to an _emeritus_ status within `MAINTAINERS.md` and removal from organization membership.
 
 #### Progression Process
@@ -221,6 +221,15 @@ The off-boarding process includes the following steps:
 Progression to a new role requires an appointment or nomination by an existing Maintainer. All role appointments and nominations are subject to a vote.
 - All role appointments, nominations, and votes must be documented in a GitHub issue or pull request
 - Contributions across any Kyverno sub-projects count toward progression. The list of acceptable contributions is listed above.
+
+#### Voting
+
+Kyverno uses [GitVote](https://github.com/cncf/gitvote) for votes. The [`.gitvote.yml`](.gitvote.yml) file defines the voting rules:
+
+- **Contributor votes:** GitVote creates a vote automatically on a PR that changes `CONTRIBUTORS.md`. You can also start one with the `/vote-contributors` command. The vote passes when at least 10% of the [binding-votes](https://github.com/orgs/kyverno/teams/binding-votes) team vote in favor. With 15 members, that's two (2) votes.
+- **Maintainer and all other votes:** start the vote with the `/vote` command. The vote passes when at least 60% of the [kyverno-core-maintainers](https://github.com/orgs/kyverno/teams/kyverno-core-maintainers) team vote in favor. With 8 members, that's five (5) votes. The vote stays open for at least five (5) days.
+
+Votes stay open for one (1) week and close early once they pass. Members who don't vote count as not in favor. When a team's size changes, maintainers update the thresholds in `.gitvote.yml` to keep the required number of votes.
 
 #### Benefits of the Contributor Ladder
 
