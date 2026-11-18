@@ -13,3 +13,4 @@ https://github.com/orgs/kyverno/teams/kyverno-maintainers
 | Yugandhar Suthari        | [@yrsuthari](https://github.com/yrsuthari)             | Independent Contributor   |
 | Luc Chmielowski          | [@lucchmielowski](https://github.com/lucchmielowski)   | Nirmata                   |
 | Jyotiraditya Panda       | [@rx18-eng](https://github.com/rx18-eng)               | Independent Contributor   |
+| Nishant                  | [@nishant-devv](https://github.com/nishant-devv)       | Independent Contributor   |
