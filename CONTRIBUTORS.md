@@ -43,3 +43,5 @@ In order to add yourself as a contributor, please open a PR to add your informat
 | Raunak Madan          | [@raunak-nirmata](https://github.com/raunak-nirmata)       |
 | Anushka Gupta         | [@anushkagupta200615-jpg](https://github.com/anushkagupta200615-jpg) |
 | Jitendra Rewar        | [@JituRewar](https://github.com/JituRewar)                 |
+| Ahmed Faraj           | [@Ahmad-Faraj](https://github.com/Ahmad-Faraj)             |
+| Maximilian Rink       | [@MaxRink](https://github.com/MaxRink)                     |
