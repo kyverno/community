@@ -26,10 +26,11 @@
 #       profile: default
 #
 automation:
-  enabled: false
+  enabled: true
   rules:
-    - patterns: []
-      profile: profile1
+    - patterns:
+        - "CONTRIBUTORS.md"
+      profile: contributors
 
 # Configuration profiles (required)
 #
@@ -40,7 +41,8 @@ automation:
 profiles:
   # Default configuration profile
   #
-  # This profile will be used with votes created with the /vote command
+  # This profile will be used with votes created with the /vote command. It is
+  # used for maintainer votes and all other votes except contributor votes.
   default:
     # Voting duration (required)
     #
@@ -62,7 +64,9 @@ profiles:
     #
     # The percentage is calculated based on the number of votes in favor and the
     # number of allowed voters (see allowed_voters field below for more details).
-    pass_threshold: 25
+    #
+    # 60% of kyverno-core-maintainers (5 of 8 votes; holds for 7 to 8 members)
+    pass_threshold: 60
 
     # Allowed voters (optional)
     #
@@ -92,7 +96,7 @@ profiles:
     #   exclude_team_maintainers: false
     #
     allowed_voters:
-      teams: [binding-votes]
+      teams: [kyverno-core-maintainers]
       users: []
 
     # Periodic status check
@@ -137,6 +141,13 @@ profiles:
     #
     close_on_passing: true
 
+    # Close on passing minimum wait
+    #
+    # Keep maintainer votes open for at least the voting period required by
+    # GOVERNANCE.md (three working days), even if the vote passes earlier.
+    #
+    close_on_passing_min_wait: "5 days"
+
     # Announcements
     #
     # GitVote can announce the results of a vote when it is closed on GitHub
@@ -170,3 +181,18 @@ profiles:
   #   allowed_voters:
   #     teams:
   #       - team1
+
+  # Contributor votes
+  #
+  # Created automatically on PRs that change CONTRIBUTORS.md (see automation
+  # above), or manually with the /vote-contributors command.
+  contributors:
+    duration: 1w
+    # 10% of binding-votes (2 of 15 votes; holds for 11 to 20 members)
+    pass_threshold: 10
+    allowed_voters:
+      teams: [binding-votes]
+    close_on_passing: true
+    announcements:
+      discussions:
+        category: announcements
