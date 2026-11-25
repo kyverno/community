@@ -45,3 +45,4 @@ In order to add yourself as a contributor, please open a PR to add your informat
 | Jitendra Rewar        | [@JituRewar](https://github.com/JituRewar)                 |
 | Ahmed Faraj           | [@Ahmad-Faraj](https://github.com/Ahmad-Faraj)             |
 | Maximilian Rink       | [@MaxRink](https://github.com/MaxRink)                     |
+| Shreyansh Kaushal     | [@ShreyanshK1103](https://github.com/ShreyanshK1103)       |
